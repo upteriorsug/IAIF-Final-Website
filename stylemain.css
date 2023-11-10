@@ -1,0 +1,115 @@
+.mynavllogo {
+    padding-top: 20px;
+    
+}
+body {
+    font-family:'Roboto', sans-serif;
+    background-color: #3b81bb44;
+}
+
+a {
+    text-decoration: none;
+}
+.mytool {
+    min-height: 300px;
+    background-color: #49c4d3;
+}
+
+.navbar-nav {
+    margin-left:auto;
+}
+
+.nav-link {
+    color: white;
+}
+
+.mainbg {
+    background-image: url(Images/Corruption-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbobox {
+    /* background-color: blueviolet; */
+    min-height: 700px;
+    width: 100%;
+    margin: 30px 10px;
+    padding: 20px;
+}
+
+.herobox1 {
+    color: white;
+    font-family:'Roboto', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #49c4d3;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mis-vis {
+    /* background-color: blueviolet; */
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mis {
+    /* background-color: blanchedalmond; */
+    width:500px;
+}
+
+.vis {
+    /* background-color: blanchedalmond; */
+    width: 500px;
+}
+
+.artmsg {
+    min-height: 500px;
+}
+
+.tab{
+    min-height: 100px;
+    color: #49c4d3;
+}
+
+.msg {
+    min-height: 100px;
+    width: 60%;
+}
+
+.partners {
+    min-height: 200px;
+}
+
+footer {
+    background-color: #49c4d3;
+}
+
+.subs {
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-img-top {
+    background-color: #49c4d3;
+    padding: 30px;
+    height: 200px;
+}
+.mynav2 {
+    background-color: rgb(165, 50, 79);
+    padding: 20px;
+}
+
+.aboutus {
+    height: 400px;
+    width: auto;
+    background-color: blueviolet;
+}
+
+.mybg1 {
+    background-color: #49c4d3;
+}
